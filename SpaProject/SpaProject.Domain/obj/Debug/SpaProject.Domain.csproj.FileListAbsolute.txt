@@ -1,0 +1,6 @@
+D:\Projects\SpaProject\SpaProject\SpaProject.Domain\bin\Debug\SpaProject.Domain.dll
+D:\Projects\SpaProject\SpaProject\SpaProject.Domain\bin\Debug\SpaProject.Domain.pdb
+D:\Projects\SpaProject\SpaProject\SpaProject.Domain\obj\Debug\SpaProject.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\SpaProject\SpaProject\SpaProject.Domain\obj\Debug\SpaProject.Domain.dll
+D:\Projects\SpaProject\SpaProject\SpaProject.Domain\obj\Debug\SpaProject.Domain.pdb
+D:\Projects\SpaProject\SpaProject\SpaProject.Domain\obj\Debug\SpaProject.Domain.csprojAssemblyReference.cache

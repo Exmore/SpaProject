@@ -1,0 +1,9 @@
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\bin\Debug\SpaProject.DataAccess.dll
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\bin\Debug\SpaProject.DataAccess.pdb
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\bin\Debug\SpaProject.Domain.dll
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\bin\Debug\SpaProject.Domain.pdb
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\obj\Debug\SpaProject.DataAccess.csprojAssemblyReference.cache
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\obj\Debug\SpaProject.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\obj\Debug\SpaProject.DataAccess.csproj.CopyComplete
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\obj\Debug\SpaProject.DataAccess.dll
+D:\Projects\SpaProject\SpaProject\SpaProject.DataAccess\obj\Debug\SpaProject.DataAccess.pdb
